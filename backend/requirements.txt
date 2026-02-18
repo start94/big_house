@@ -1,0 +1,27 @@
+# Core Framework & Server
+fastapi
+uvicorn[standard]
+gunicorn
+python-multipart
+pydantic[email]
+
+# Auth & Security
+Authlib
+httpx
+itsdangerous
+passlib[bcrypt]
+PyJWT
+python-dotenv
+
+# AI & Logic
+crewai
+litellm
+langchain-openai
+
+# Data & Files
+openpyxl
+python-docx
+requests
+matplotlib
+numpy
+pandas
